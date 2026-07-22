@@ -48,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/risvana423/leet-code-risvana/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/risvana423/leet-code-risvana/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0022-generate-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/risvana423/leet-code-risvana/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,10 +98,12 @@
 | [0010-regular-expression-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/risvana423/leet-code-risvana/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0044-wildcard-matching) |
 ## Sorting
 |  |
 | ------- |
