@@ -21,6 +21,7 @@
 | [0045-jump-game-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/risvana423/leet-code-risvana/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/risvana423/leet-code-risvana/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/risvana423/leet-code-risvana/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/risvana423/leet-code-risvana/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/risvana423/leet-code-risvana/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/risvana423/leet-code-risvana/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0032-longest-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/risvana423/leet-code-risvana/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/risvana423/leet-code-risvana/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [0016-3sum-closest](https://github.com/risvana423/leet-code-risvana/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/risvana423/leet-code-risvana/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/risvana423/leet-code-risvana/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
