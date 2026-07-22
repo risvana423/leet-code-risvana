@@ -53,6 +53,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/risvana423/leet-code-risvana/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/risvana423/leet-code-risvana/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/risvana423/leet-code-risvana/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0032-longest-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
