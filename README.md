@@ -20,6 +20,7 @@
 | [0041-first-missing-positive](https://github.com/risvana423/leet-code-risvana/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/risvana423/leet-code-risvana/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0012-integer-to-roman](https://github.com/risvana423/leet-code-risvana/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/risvana423/leet-code-risvana/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/risvana423/leet-code-risvana/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/risvana423/leet-code-risvana/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/risvana423/leet-code-risvana/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/risvana423/leet-code-risvana/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
