@@ -45,6 +45,7 @@
 | [0002-add-two-numbers](https://github.com/risvana423/leet-code-risvana/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/risvana423/leet-code-risvana/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/risvana423/leet-code-risvana/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/risvana423/leet-code-risvana/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0018-4sum](https://github.com/risvana423/leet-code-risvana/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/risvana423/leet-code-risvana/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/risvana423/leet-code-risvana/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/risvana423/leet-code-risvana/tree/master/0061-rotate-list) |
 ## Dynamic Programming
 |  |
 | ------- |
