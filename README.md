@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/risvana423/leet-code-risvana/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/risvana423/leet-code-risvana/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/risvana423/leet-code-risvana/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/risvana423/leet-code-risvana/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/risvana423/leet-code-risvana/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/risvana423/leet-code-risvana/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/risvana423/leet-code-risvana/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
