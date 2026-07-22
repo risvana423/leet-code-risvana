@@ -22,6 +22,7 @@
 | [0047-permutations-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/risvana423/leet-code-risvana/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/risvana423/leet-code-risvana/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/risvana423/leet-code-risvana/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0039-combination-sum](https://github.com/risvana423/leet-code-risvana/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/risvana423/leet-code-risvana/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/risvana423/leet-code-risvana/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
