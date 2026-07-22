@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/risvana423/leet-code-risvana/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/risvana423/leet-code-risvana/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/risvana423/leet-code-risvana/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/risvana423/leet-code-risvana/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/risvana423/leet-code-risvana/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/risvana423/leet-code-risvana/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
